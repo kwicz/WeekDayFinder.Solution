@@ -27,6 +27,7 @@ namespace DayOfWeek
         Console.WriteLine("Source = {0}", ex.Source);
         Console.WriteLine("StackTrace = {0}", ex.StackTrace);
         Console.WriteLine("TargetSite = {0}", ex.TargetSite);
+        Console.WriteLine("nice try, wise guy!");
       }
       DateTime dateTime = new DateTime(year, month, day);
       NewDateTime newDateTime = new NewDateTime(dateTime);
