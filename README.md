@@ -1,4 +1,4 @@
-# _Ro Sham Bo_
+# _Weekday Finder_
 
 #### _A C# Console Application to find teh day of the week, March 2020_
 
