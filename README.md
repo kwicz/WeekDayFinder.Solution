@@ -1,6 +1,6 @@
 # _Ro Sham Bo_
 
-#### _A C# Console Application to play Rock, Paper, Scissors, March 2020_
+#### _A C# Console Application to find teh day of the week, March 2020_
 
 #### By _**Todd Walraven && K. Wicz**_
 
@@ -8,16 +8,7 @@
 
 ## Description
 
-_A game in which two players can input their game move and the program will let them know which player was the winner._
-
-## Behavior Driven Project Specifications
-
-| Behavior | Input | Output |
-|:---|:---:|:---:|
-|Both users must input strings|"rock", "scissors"|new instance of game is created|
-|Users input same string|"rock", "rock"|"draw"|
-|Player 1 inputs winning choice|"rock", "scissors"|"Player 1 Wins"|
-|Player 2 inputs winning choice|"paper", "scissors"|"Player 2 Wins"|
+_An application in which users can input a year, month, and date, and be told the day of the week of that date._
 
 ## Setup/Installation Requirements
 
@@ -29,11 +20,11 @@ cd desktop
 ```
 2. Clone the file from GitHub with HTTPS
 ```sh
-git clone https://github.com/kwicz/rock-paper-scissors.git
+git clone https://github.com/kwicz/WeekDayFinder.Solution.git
 ```
 3.  Enter into the new file directory
 ```sh
-cd rock-paper-scissors
+cd WeekDayFinder.Solution
 ```
 4.  Start the program
 ```sh
@@ -46,7 +37,7 @@ _No known bugs at this time._
 
 ## Support and contact details
 
-_Have a bug or an issue with this application? [Open a new issue](https://github.com/kwicz/rock-paper-scissors/issues) here on GitHub._
+_Have a bug or an issue with this application? [Open a new issue](https://github.com/kwicz/WeekDayFinder.Solution/issues) here on GitHub._
 
 ## Technologies Used
 
